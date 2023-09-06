@@ -1,0 +1,40 @@
+$firstColor: hsl(0, 0%, 8%);
+$secondsColor: hsl(0, 0%, 41%);
+$thirdColor: hsl(0, 0%, 98%);
+
+header {
+  .navigation {
+    color: $secondsColor;
+  }
+  .login {
+    color: $secondsColor;
+  }
+  .login:hover {
+    border: 1px solid $secondsColor;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .register {
+    color: $secondsColor;
+  }
+  .register:hover {
+    border: 1px solid $secondsColor;
+    border-radius: 5px;
+    padding: 5px;
+  }
+}
+
+main {
+  .sectionOne {
+    .title {
+      color: $firstColor;
+    }
+    .subtitle {
+      color: $secondsColor;
+    }
+    .button {
+      background-color: $firstColor;
+      color: $thirdColor;
+    }
+  }
+}
