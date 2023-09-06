@@ -4,7 +4,7 @@
 
 💻 Sobre:
 
-Projeto criado pelo site FrontendMentor, como desafio para o aprendizagem e prática do Html e css. 
+Projeto criado pelo site FrontendMentor, como desafio para o aprendizagem e prática do Html | css | sass. 
 
 📝 Composição da aplicação:
 
